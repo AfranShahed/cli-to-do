@@ -1,0 +1,20 @@
+{
+  "name": "cli-to-do",
+  "version": "1.0.0",
+  "description": "CLI To Do Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfranShahed/cli-to-do.git"
+  },
+  "author": "AfranShahed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfranShahed/cli-to-do/issues"
+  },
+  "homepage": "https://github.com/AfranShahed/cli-to-do#readme"
+}
